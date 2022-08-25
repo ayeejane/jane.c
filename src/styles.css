@@ -1,0 +1,85 @@
+.navbar {
+    font-size: 18px;
+}
+
+.about {
+    display: flex;
+    position: relative;
+    padding-top: 45px;
+}
+
+.about-desc {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.avatar {
+    max-width:100%;
+    height: auto;
+}
+
+.about-heading {
+    font-size: 55px;
+}
+
+.about-resume {
+    font-size: 16px;
+}
+
+.home-header {
+    text-align: center;
+    font-size: 2.4vw;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-icons {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#32174D;
+}
+
+.projects-icons{
+    color:#32174D;
+}
+
+.projects {
+    padding-top: 45px;
+}
+
+a:link { 
+    text-decoration: none; 
+    padding: 15px;
+    color: #32174D;
+}
+
+.linkedin-link, .github-link, .email-link {
+    color: #32174D;
+}
+
+a:hover {
+   color: white;
+}
+
+a:visited {
+    color: #E08D3C;
+}
+
+.connect {
+    padding: 30px;
+}
+
+.send-button {
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    cursor: pointer;
+    background: #E08D3C;
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
