@@ -12,7 +12,7 @@ export default class App extends React.Component{
       <BrowserRouter>
         <MainNav />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/connect" element={<Connect />} />
           <Route path="/projects" element={<Projects />} />
