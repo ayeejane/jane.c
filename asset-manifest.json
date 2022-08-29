@@ -1,7 +1,7 @@
 {
-  "main.css": "/jane.c/static/css/main.19342f01.chunk.css",
-  "main.js": "/jane.c/static/js/main.1c96539d.chunk.js",
-  "main.js.map": "/jane.c/static/js/main.1c96539d.chunk.js.map",
+  "main.css": "/jane.c/static/css/main.d23f2caf.chunk.css",
+  "main.js": "/jane.c/static/js/main.2a2f2003.chunk.js",
+  "main.js.map": "/jane.c/static/js/main.2a2f2003.chunk.js.map",
   "static/css/1.be280468.chunk.css": "/jane.c/static/css/1.be280468.chunk.css",
   "static/js/1.1c5ad9eb.chunk.js": "/jane.c/static/js/1.1c5ad9eb.chunk.js",
   "static/js/1.1c5ad9eb.chunk.js.map": "/jane.c/static/js/1.1c5ad9eb.chunk.js.map",
@@ -13,9 +13,9 @@
   "static/media/eureqa.png": "/jane.c/static/media/eureqa.ab03538e.png",
   "static/media/gotgainz.png": "/jane.c/static/media/gotgainz.11404100.png",
   "static/media/logo.png": "/jane.c/static/media/logo.9f59d1ee.png",
+  "static/css/main.d23f2caf.chunk.css.map": "/jane.c/static/css/main.d23f2caf.chunk.css.map",
   "static/css/1.be280468.chunk.css.map": "/jane.c/static/css/1.be280468.chunk.css.map",
-  "static/css/main.19342f01.chunk.css.map": "/jane.c/static/css/main.19342f01.chunk.css.map",
   "index.html": "/jane.c/index.html",
-  "precache-manifest.28bc1038765b6ca3db5deac50a297e7e.js": "/jane.c/precache-manifest.28bc1038765b6ca3db5deac50a297e7e.js",
+  "precache-manifest.59b9fe53a7207f4b96cb78f31b1f6730.js": "/jane.c/precache-manifest.59b9fe53a7207f4b96cb78f31b1f6730.js",
   "service-worker.js": "/jane.c/service-worker.js"
 }
