@@ -27,7 +27,7 @@ export default class About extends React.Component {
                                 </p>
                                 <div className="about-resume"> 
                                     <FontAwesomeIcon icon={faLink} />
-                                    <a href={jcresume} target="_blank"><b>Resume</b></a>
+                                    <a href={jcresume} target="_blank" style={{ color: '#E08D3C' }}><b>Resume</b></a>
                                 </div>
                             </div>
                         </Col>

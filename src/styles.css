@@ -2,7 +2,7 @@
     font-size: 18px;
 }
 
-.about {
+.About {
     display: flex;
     position: relative;
     padding-top: 45px;
@@ -47,7 +47,7 @@
     color:#32174D;
 }
 
-.projects {
+.Projects {
     padding-top: 45px;
 }
 
@@ -65,8 +65,8 @@ a:hover {
    color: white;
 }
 
-.connect {
-    padding: 30px;
+.Connect {
+    padding: 45px;
 }
 
 .send-button {

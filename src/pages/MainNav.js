@@ -6,9 +6,9 @@ import logo from '../assets/logo.png';
 export default class MainNav extends React.Component {
     render() {
         return (
-            <Navbar collapseOnSelect expand="lg" className="navbar">
+            <Navbar collapseOnSelect expand="lg">
                 <Container>
-                    <Nav>
+                    <Nav className='mx-auto'>
                         <Nav.Link>
                             <NavLink 
                                 exact to="/"
