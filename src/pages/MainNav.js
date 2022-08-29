@@ -50,6 +50,6 @@ export default class MainNav extends React.Component {
                     </Nav>
                 </Container>
             </Navbar>
-        )
+        );
     }
 }

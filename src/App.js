@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route} from "react-router-dom";
+import {Routes, Route} from "react-router-dom";
 import { About, Connect, Home, Projects } from './pages';
 import MainNav from './pages/MainNav';
 
@@ -9,7 +9,7 @@ import './styles.css';
 export default class App extends React.Component{
   render() {
     return ( 
-      <BrowserRouter>
+      <div className='App'>
         <MainNav />
         <Routes>
           <Route exact path="/" element={<Home />} />
@@ -17,7 +17,7 @@ export default class App extends React.Component{
           <Route path="/connect" element={<Connect />} />
           <Route path="/projects" element={<Projects />} />
         </Routes>
-      </BrowserRouter>
+      </div>
     );
   }
 }

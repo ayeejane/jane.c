@@ -4,7 +4,6 @@ import emailjs from 'emailjs-com';
 import connectPic from '../assets/connect-pic.png';
 
 export default function Connect() {
-
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
@@ -41,8 +40,8 @@ export default function Connect() {
         }
     }
 
-    return(
-        <div className="connect">
+    return (
+        <div className='Connect'>
             <Container>
                 <Row>
                     <Col md={6}>
@@ -87,5 +86,5 @@ export default function Connect() {
                 </Row>
             </Container>
         </div>
-    )
+    );
 }
