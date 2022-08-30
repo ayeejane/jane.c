@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import { FaGithub, FaLinkedin, FaMailBulk} from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 export default class Home extends React.Component {
     render() {
@@ -14,9 +14,6 @@ export default class Home extends React.Component {
                         <br />
                         <FaGithub size={30}/>
                         <a href = "https://github.com/ayeejane" className="github-link" target="_blank"><b>Github</b></a>
-                        <br />
-                        <FaMailBulk size={30}/>
-                        <a href="mailto:cabanayan.jane@gmail.com" className="email-link"><b>Email</b></a>  
                         <br />
                     </div>
                 </Container>

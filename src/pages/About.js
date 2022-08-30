@@ -13,7 +13,7 @@ export default class About extends React.Component {
                     <Row className="justify-content-md-center">
                         <Col md={4}>
                             <div className='avatar'>
-                                <Image src={avatar} className='img-fluid rounded-pill' alt='Profile Image'></Image>
+                                <Image src={avatar} className='img-fluid responsive' alt='Profile Image'></Image>
                             </div>
                         </Col>
                         <Col md={8}>
@@ -27,7 +27,7 @@ export default class About extends React.Component {
                                 </p>
                                 <div className="about-resume"> 
                                     <FontAwesomeIcon icon={faLink} />
-                                    <a href={jcresume} target="_blank" style={{ color: '#E08D3C' }}><b>Resume</b></a>
+                                    <a href={jcresume} target="_blank" style={{ color: ' #F6EABEC' }}><b>Resume</b></a>
                                 </div>
                             </div>
                         </Col>

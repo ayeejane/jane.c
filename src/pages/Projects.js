@@ -30,11 +30,11 @@ export default class Projects extends React.Component {
                                 </p>
                                 <div className='projects-icons'>
                                     <FontAwesomeIcon icon={faCodeBranch} />
-                                    <a href = "https://github.com/ayeejane/project-eureka-flutter" target="_blank" style={{ color: '#E08D3C' }}>Github</a>
+                                    <a href = "https://github.com/ayeejane/project-eureka-flutter" target="_blank" style={{ color: ' #F6EABE' }}>Github</a>
                                     <FontAwesomeIcon icon={faPlayCircle} />
-                                    <a href = "https://www.youtube.com/watch?v=K7oCw8ajz5w&ab_channel=TonyNguyen" target="_blank" style={{ color: '#E08D3C' }}>Demo</a>
+                                    <a href = "https://www.youtube.com/watch?v=K7oCw8ajz5w&ab_channel=TonyNguyen" target="_blank" style={{ color: '#F6EABE' }}>Demo</a>
                                     <FontAwesomeIcon icon={faImage} />
-                                    <a href = "https://www.figma.com/file/GK3OgdkNJ5GQIXjFfRy83p/Mobile-Designs?node-id=0%3A1" target="_blank" style={{ color: '#E08D3C' }}>Figma</a>
+                                    <a href = "https://www.figma.com/file/GK3OgdkNJ5GQIXjFfRy83p/Mobile-Designs?node-id=0%3A1" target="_blank" style={{ color: '#F6EABE' }}>Figma</a>
                                 </div>
                             </div>
                         </Col>
@@ -57,9 +57,9 @@ export default class Projects extends React.Component {
                                 </p>
                                 <div className='projects-icons'>
                                     <FontAwesomeIcon icon={faCodeBranch} />
-                                    <a href = "https://github.com/ayeejane/Got-Gainz" target="_blank" style={{ color: '#E08D3C' }}>Github</a>
+                                    <a href = "https://github.com/ayeejane/Got-Gainz" target="_blank" style={{ color: ' #F6EABE' }}>Github</a>
                                     <FontAwesomeIcon icon={faPlayCircle} />
-                                    <a href = "https://www.youtube.com/watch?v=QqPSf_KAQnw&ab_channel=TonyNguyen" target="_blank" style={{ color: '#E08D3C' }}>Demo</a>
+                                    <a href = "https://www.youtube.com/watch?v=QqPSf_KAQnw&ab_channel=TonyNguyen" target="_blank" style={{ color: ' #F6EABE' }}>Demo</a>
                                 </div>
                             </div>
                         </Col>

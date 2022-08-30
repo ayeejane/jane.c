@@ -81,10 +81,10 @@ export default function Connect() {
                         </Form>
                     </Col>
                     <Col md={6}>
-                        <Image src={connectPic} className='img-fluid' alt='Image'></Image>
+                        <Image src={connectPic} className='img-fluid responsive' alt='Image'></Image>
                     </Col>
                 </Row>
             </Container>
         </div>
-    );
+    ); 
 }
