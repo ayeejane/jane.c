@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4384fa9f4073c9f164ad",
+    "revision": "0bf77a9ab695f46c868e",
     "url": "/jane.c/static/css/main.8593fc8d.chunk.css"
   },
   {
-    "revision": "4384fa9f4073c9f164ad",
-    "url": "/jane.c/static/js/main.4384fa9f.chunk.js"
+    "revision": "0bf77a9ab695f46c868e",
+    "url": "/jane.c/static/js/main.0bf77a9a.chunk.js"
   },
   {
     "revision": "10493e418ecdeaba352e",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/jane.c/static/media/resume.d555db99.pdf"
   },
   {
-    "revision": "f60a4eff61e44eafed1908622341e6a9",
-    "url": "/jane.c/static/media/avatar.f60a4eff.png"
+    "revision": "64e3f87b0cc4463a806e3e9afdecc6ec",
+    "url": "/jane.c/static/media/avatar.64e3f87b.png"
   },
   {
     "revision": "d6fb6bc360f9fd5bd45de03b0331fcba",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/jane.c/static/media/logo.9f59d1ee.png"
   },
   {
-    "revision": "7142714b7121877a015c64b5302b2598",
+    "revision": "6307130514225ac496395dbc1d8e8e13",
     "url": "/jane.c/index.html"
   }
 ];
