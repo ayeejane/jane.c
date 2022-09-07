@@ -9,7 +9,7 @@ export default class About extends React.Component {
     render() {
         return(
             <div className='About'>
-                <Container>
+                <Container className='about-container'>
                     <Row className="justify-content-md-center">
                         <Col md={4}>
                             <div className='avatar'>

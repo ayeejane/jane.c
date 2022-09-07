@@ -77,7 +77,7 @@ export default function Connect() {
                                     rows={4} 
                                 />
                             </Form.Group>
-                            <Button type="submit" className='send-button'>Send Message</Button>
+                            <Button type="submit" className='send-btn'>Send Message</Button>
                         </Form>
                     </Col>
                     <Col md={6}>
